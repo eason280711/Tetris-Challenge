@@ -7,10 +7,6 @@
 - Built and run Xcode 13.3 on macOS 12.3
 
 Note:Please use the model newer than iPhone 11 to get the best experience,I prefer using iPhone 13 mini to run it because I used it when I was developed the game.
- 
-## Overview
-
-Tetris is a well-known puzzle game, a game of brainstorming to clear as many lines as possible to get points. And in the history of the game, there is a branch game mode called battle mode, two people give the obstacle named "garbage" to the opponent by clearing the lines, the goal is to see who can survive the game as long as possible. And on the rotating system, the battle also has different rules from the classic Tetris. At present, the games on the market are mainly based on the rules of classic Tetris, So as a fan of Battle Tetris games, I designed such a stand-alone game. During the game, you will be attacked by "Garbage" from time to time, and a special rotation system has also been introduced. By showing a different look Tetris ,I hope to promote to everyone and let more people feel the fun of Battle Tetris!
 
 ## How to play?
 
